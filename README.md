@@ -36,4 +36,3 @@ This repository is continuously updated as I explore new frameworks, read books 
 
 > *"Great products are built by understanding people, solving real problems, and making thoughtful decisions."*
 
-مثلا این قسمت فارسیه برای تست 
