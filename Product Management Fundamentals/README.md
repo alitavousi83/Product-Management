@@ -4,9 +4,9 @@
 
 ## 📌 Overview
 
-Product Management is the discipline of managing a product throughout its entire lifecycle — from identifying user problems and defining a vision to building, launching, measuring, and improving the product.
+مدیریت محصول، رشته‌ای است که به مدیریت یک محصول در کل چرخه عمر آن می‌پردازد - از شناسایی مشکلات کاربر و تعریف چشم‌انداز گرفته تا ساخت، راه‌اندازی، اندازه‌گیری و بهبود محصول.
 
-A Product Manager works as the bridge between customers, business, and engineering teams to make sure the right product is built for the right users.
+مدیر محصول به عنوان پلی بین مشتریان، تیم‌های تجاری و مهندسی عمل می‌کند تا اطمینان حاصل شود که محصول مناسب برای کاربران مناسب ساخته شده است.
 
 ---
 
@@ -19,21 +19,23 @@ A Product Manager works as the bridge between customers, business, and engineeri
 | 🏗️ مبانى مديريت محصول |
 | [page 12-20 →](#page-12) | مديريت محصول چيه؟ |
 | [page 20 →](#page-17) |مسئوليت هاى اصلى يك مدير محصول |
-| [page 12-20 →](#page-12) |چشم انداز واستراتزى محصول |
+| [page 12-20 →](#page-12) |چشم انداز واستراتژى محصول |
 | [page 20 →](#page-17) | مرور |
 | 📱 فرآيند توسعه محصول |
 | [page 12-20 →](#page-12) |نقشه هاى راه و اولويت بندى |
-| [page 20 →](#page-17)  | متدولوزى هاى چابک (Agile) |
+| [page 20 →](#page-17)  | متدولوژى هاى چابک (Agile) |
 | [page 12-20 →](#page-12) |چرخه عمر توسعه محصول |
 | [page 20 →](#page-17) |مديريت ذى نفعان |
 | [page 12-20 →](#page-12) |تصميم گيرى وانتخاب بين اولويتها |
 | [page 20 →](#page-17) | مرور |
-| 🧩 components | [page 12-20 →](#page-12) |
-| 🅱️ Bootcamp | [page 20 →](#page-17) |
-| 🏗️ foundamentals | [page 1-9 →](#page-01) |
-| 📱 forms | [page 9-12 →](#page-09) |
-| 🧩 components | [page 12-20 →](#page-12) |
-| 🅱️ Bootcamp | [page 20 →](#page-17) |
+| 🧩استراتژی محصول کاربر محور  |
+| [page 20 →](#page-17)  |درک نیاز ها و نقاط درد کاربر |
+| [page 20 →](#page-17)  |تحقیق بازار و رقبا |
+| [page 12-20 →](#page-12) |جمع آوری بازخورد و تکرار  |
+| [page 20 →](#page-17) |استراتژی ورود به بازار  |
+| [page 12-20 →](#page-12) |سنجش موفقیت  |
+| [page 20 →](#page-17) | مرور |
+
 </div>
 
 ---
