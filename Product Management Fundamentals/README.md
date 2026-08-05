@@ -17,7 +17,7 @@
 | Topic | Jump |
 |-------|------|
 | 🏗️ مبانى مديريت محصول |
-| [page 12-20 →](#page-12) | مديريت محصول چيه؟ |
+| [ 1.1 →](#1.1) | مديريت محصول چيه؟ |
 | [page 20 →](#page-17) |مسئوليت هاى اصلى يك مدير محصول |
 | [page 12-20 →](#page-12) |چشم انداز واستراتژى محصول |
 | [page 20 →](#page-17) | مرور |
@@ -41,9 +41,32 @@
 ---
 ---
 
-# Part 1: Product Management Fundamentals
+# 🏗️ مبانى مديريت محصول
 
-## 1.1 What is Product Management?
+![alt text](/Product%20Management%20Fundamentals/pic/1.1.png)
+
+
+<a id="1.1"></a>
+
+## 1.1 مدیریت محصول چیست ؟
+<div align="right">
+
+> مدیریت محصول سه دنیای مختلف رو به هم وصل میکنه :
+
+* کسب و کار 
+* تکنولوژی
+* تجربه کاربری (user experience)
+
+
+----
+
+
+
+
+
+
+</div>
+
 
 ## 1.2 Main Responsibilities of a Product Manager
 
